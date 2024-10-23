@@ -1,3 +1,3 @@
 # infa_ryakhovskiy
 
-it's test project
+It's test project
